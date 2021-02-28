@@ -47,7 +47,7 @@ std = [
 ]
 
 [dependencies]
-funty = "1"
+funty = {git = "https://github.com/myrrlyn/funty.git", rev = "8e516639ecf588a5e66e338af5e9f5266b858527"}
 radium = "0.3"
 wyz = "0.2"
 
